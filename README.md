@@ -26,7 +26,7 @@ To use this project, you can create an account by clicking the "Register" button
 
 ## Credits
 
-This project was built by [Your Name Here](https://github.com/yourusername) using the following technologies:
+This project was built using the following technologies:
 
 - Spring Boot
 - MySQL
